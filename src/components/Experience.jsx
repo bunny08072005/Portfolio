@@ -4,9 +4,22 @@ import 'aos/dist/aos.css';
 
 const experienceData = [
   {
+    role: 'Equity Research Intern',
+    company: 'IBTI Asset Management LLP, Begumpet, Hyderabad',
+    duration: 'Jul 2026 – Present',
+    type: 'Internship (On-site)',
+    tags: ['Equity Research', 'Financial Analysis', 'Valuation', 'Market Research'],
+    points: [
+      'Conducting in-depth equity research and fundamental analysis of listed companies',
+      'Preparing detailed research reports with investment recommendations and valuation models',
+      'Analyzing financial statements, industry trends, and macroeconomic factors to support portfolio decisions',
+      'Collaborating with the asset management team on portfolio strategy and stock screening',
+    ],
+  },
+  {
     role: 'Finance Intern',
     company: '365 Wealth and Health HUB',
-    duration: 'May 2026 – Present',
+    duration: 'Apr 2026 – Jun 2026',
     type: 'Internship',
     tags: ['Excel', 'Financial Planning', 'Market Research', 'Docx'],
     points: [
