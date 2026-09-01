@@ -14,7 +14,7 @@ const Footer = () => {
         </div>
         
         <div className="flex flex-col gap-2 md:items-center">
-          <p>NISM V-A Certified</p>
+          <p>NISM V-A & XV Certified</p>
           <div className="flex gap-4 mt-1">
             <a href="https://www.linkedin.com/in/pvhemanth" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-emerald-400 transition-colors underline underline-offset-4 decoration-1">LinkedIn</a>
             <a href="https://www.instagram.com/itsme.hemanthh/" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-emerald-400 transition-colors underline underline-offset-4 decoration-1">Instagram</a>

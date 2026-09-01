@@ -24,6 +24,11 @@ const achievements = [
     desc: 'Foundational knowledge in mutual funds, investment products and financial planning'
   },
   {
+    icon: '🔎',
+    title: 'NISM Series XV Certified',
+    desc: 'Research Analyst certification covering equity research, valuation techniques, and analyst conduct as per SEBI regulations'
+  },
+  {
     icon: '💼',
     title: 'Finance Secretary',
     desc: 'Department of Computer Science & Engineering — managed budgets and financial documentation'
@@ -69,7 +74,7 @@ const About = () => {
             <p className="text-base md:text-lg text-white/50 leading-relaxed mb-8">
               I'm <span className="text-white font-bold">Peddaboyena Venkata Hemanth</span>, a finance-focused BTech undergraduate 
               from <span className="text-emerald-400/80">IIIT RGUKT RK Valley</span>, Kadapa, Andhra Pradesh. With a 
-              <span className="text-amber-400/80"> NISM V-A certification</span> and growing expertise in financial modelling 
+              <span className="text-amber-400/80"> NISM V-A and NISM XV (Research Analyst) certifications</span> and growing expertise in financial modelling
               and investment analysis, I'm passionate about understanding markets and applying analytical skills 
               to support informed investment decisions. I also work as a 
               <span className="text-emerald-400/80">GeM Tender Consultant</span>, handling government 

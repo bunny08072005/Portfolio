@@ -111,9 +111,9 @@ const Hero = () => {
             data-aos-delay="300"
             className="text-base md:text-lg text-white/30 font-medium mb-10 max-w-lg leading-relaxed"
           >
-            Finance-focused BTech undergraduate with NISM V-A certification. 
-            Passionate about financial modelling, investment analysis, and building 
-            data-driven strategies for wealth creation.
+            Finance-focused BTech undergraduate with NISM V-A and NISM XV
+            (Research Analyst) certifications. Passionate about financial modelling,
+            investment analysis, and building data-driven strategies for wealth creation.
           </p>
 
           {/* CTA Buttons */}
@@ -137,7 +137,7 @@ const Hero = () => {
             className="flex flex-wrap gap-8 md:gap-12 mt-16"
           >
             {[
-              { value: 'NISM V-A', label: 'Certified' },
+              { value: 'NISM V-A & XV', label: 'Certified' },
               { value: '8.5', label: 'CGPA' },
               { value: '₹4.6L+', label: 'Budget Managed' },
               { value: '2+', label: 'Projects' },
